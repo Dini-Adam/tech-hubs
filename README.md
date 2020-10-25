@@ -151,6 +151,9 @@ Umugasi Aba, Abia
 ## Kaduna
 * [CoLab](http://colab.com.ng)
   4 Barnawa Close, Off Challawa Crescent, Barnawa, Kaduna.
+
+* [Dinisoft Hub] (http://dinisoft.dev)
+  L4 Block 6, Sarkin Fulani Crescent, Rigachikun, Kaduna.
   
   
 ## Kano
